@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17c0521231e881142aa61af077905405, type: 3}
+  m_Name: Default Terrain
+  m_EditorClassIdentifier: 
+  autoUpdate: 1
+  uniformScale: 2
+  useFlatShading: 0
+  useFalloff: 0
+  meshHeightMultiplier: 22.91
+  meshHeightCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.23660591
+      value: 0.016359966
+      inSlope: 0.22423646
+      outSlope: 0.22423646
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.21962373
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.70086753
+      value: 0.3943994
+      inSlope: 0.8614287
+      outSlope: 0.8614287
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.09598929
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.91546977
+      value: 0.70574486
+      inSlope: 2.3549685
+      outSlope: 2.3549685
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.97732264
+      value: 0.8988962
+      inSlope: 3.7461517
+      outSlope: 3.7461517
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.15161219
+      outWeight: 0.79041326
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 2
+      outSlope: 2
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
